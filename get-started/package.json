@@ -1,0 +1,14 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "Curso Udemy Francisco Wagner, testando api rest\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b[C\u001b[C\u001b[C\u001b\u001b[CR\u001b[\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Luiz Alexandre",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.7.0"
+  }
+}
